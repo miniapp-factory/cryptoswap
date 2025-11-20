@@ -90,3 +90,85 @@
 
 # 2025-11-20 15:51:32.543194
 +apply changes
+
+# 2025-11-20 18:27:19.153374
++Description of the “CryptoSwap” Mini-App
++
++Purpose:
++To create a simple and fast mini-app for cryptocurrency exchange that allows the user to select a currency, enter an amount, view the current rate, and execute the swap.
++
++Key Features:
++
++Cryptocurrency Selection
++
++Two dropdown lists: “From” and “To”.
++
++Support for popular cryptocurrencies: BTC, ETH, USDT, BNB, SOL, etc.
++
++Amount Input
++
++A field for entering the number of coins the user wants to exchange.
++
++Automatic calculation of the result based on the exchange rate.
++
++Current Rates
++
++Display of the current market rate of the selected pair.
++
++Option to refresh the rate.
++
++Exchange Confirmation
++
++“Swap” button.
++
++After clicking — a short summary is shown: amount to be deducted, amount to be received, fee.
++
++Interface
++
++Minimalistic, intuitive design.
++
++Main sections: currency selection → amount input → result → confirmation.
+
+# 2025-11-20 18:27:19.153805
++Description of the “CryptoSwap” Mini-App
++
++Purpose:
++To create a simple and fast mini-app for cryptocurrency exchange that allows the user to select a currency, enter an amount, view the current rate, and execute the swap.
++
++Key Features:
++
++Cryptocurrency Selection
++
++Two dropdown lists: “From” and “To”.
++
++Support for popular cryptocurrencies: BTC, ETH, USDT, BNB, SOL, etc.
++
++Amount Input
++
++A field for entering the number of coins the user wants to exchange.
++
++Automatic calculation of the result based on the exchange rate.
++
++Current Rates
++
++Display of the current market rate of the selected pair.
++
++Option to refresh the rate.
++
++Exchange Confirmation
++
++“Swap” button.
++
++After clicking — a short summary is shown: amount to be deducted, amount to be received, fee.
++
++Interface
++
++Minimalistic, intuitive design.
++
++Main sections: currency selection → amount input → result → confirmation.
+
+# 2025-11-20 18:27:58.433524
++apply changes
+
+# 2025-11-20 18:27:58.433864
++apply changes

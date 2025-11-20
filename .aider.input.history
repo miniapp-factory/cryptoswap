@@ -1,0 +1,92 @@
+
+# 2025-11-20 15:50:37.578099
++Code the following app
++```
++Description of the mini-app “CryptoSwap”
++
++Purpose:
++Create a simple and fast mini-application for cryptocurrency exchange that allows users to select currencies, enter an amount, view the current rate, and perform the exchange.
++
++Main features:
++
++Cryptocurrency selection
++
++Two dropdown menus: “From” and “To”.
++
++Support for popular cryptocurrencies: BTC, ETH, USDT, BNB, SOL, etc.
++
++Amount input
++
++A field for entering the number of coins the user wants to exchange.
++
++Automatic calculation of the result based on the exchange rate.
++
++Current rates
++
++Display of the current market rate for the selected pair.
++
++Option to refresh the rate.
++
++Exchange confirmation
++
++“Exchange” button.
++
++After clicking — display a brief summary: amount to send, amount to receive, fee.
++
++Interface
++
++Minimalistic, intuitive design.
++
++Main blocks: currency selection → amount input → result → confirmation.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 15:50:37.578588
++Code the following app
++```
++Description of the mini-app “CryptoSwap”
++
++Purpose:
++Create a simple and fast mini-application for cryptocurrency exchange that allows users to select currencies, enter an amount, view the current rate, and perform the exchange.
++
++Main features:
++
++Cryptocurrency selection
++
++Two dropdown menus: “From” and “To”.
++
++Support for popular cryptocurrencies: BTC, ETH, USDT, BNB, SOL, etc.
++
++Amount input
++
++A field for entering the number of coins the user wants to exchange.
++
++Automatic calculation of the result based on the exchange rate.
++
++Current rates
++
++Display of the current market rate for the selected pair.
++
++Option to refresh the rate.
++
++Exchange confirmation
++
++“Exchange” button.
++
++After clicking — display a brief summary: amount to send, amount to receive, fee.
++
++Interface
++
++Minimalistic, intuitive design.
++
++Main blocks: currency selection → amount input → result → confirmation.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 15:51:32.542655
++apply changes
+
+# 2025-11-20 15:51:32.543194
++apply changes
